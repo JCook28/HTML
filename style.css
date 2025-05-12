@@ -1,0 +1,64 @@
+.salmon1 {
+    background-color: #E29284 ;
+    color: white;
+    font-family: 'Judson',serif;
+    margin: 0;
+}
+
+.Name {
+    text-align: center;
+}
+
+.Header {
+    text-align: left;
+    padding-left: 15%;
+}
+
+.Describe {
+    text-align: left;
+    padding-left: 60%;
+    padding-right: 15%;
+}
+
+.Specialties {
+    padding-left: 60%;
+}
+
+.Specialties2 {
+    padding-left: 70%;
+}
+
+.whiteArea {
+    background-color: white;
+    margin: 0;
+    /* padding: 5% 10%; */
+    width: 100vw;
+    color: #4A5568;
+}
+
+.SecTitles {
+    padding-left: 50%;
+}
+
+.Section {
+    padding-left: 50%;
+}
+
+.subtext {
+    font-weight: normal;
+    font-size: small;
+}
+
+.floatingImage {
+    position: absolute;
+    padding-left: 15%;
+}
+
+.topDesc {
+   color: white;
+   -webkit-text-stroke: 0.5px rgb(0, 0, 0);
+   text-align: left;
+    padding-left: 47%;
+    padding-right: 15%;
+}
+
